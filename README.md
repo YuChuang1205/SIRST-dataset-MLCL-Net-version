@@ -7,7 +7,7 @@
 
 #### The production of this dataset is based on the original SIRST dataset. The original SIRST dataset is available via [[link](https://github.com/YimianDai/sirst)].  
 
-#### We unified the data set for easy experimental comparison. The test set is allocated to 96 samples, and the uniform size of the images input to the network is 512 × 512 pixels.  
+#### We unified the data set for easy and rigorous experimental comparison. The test set is allocated to 96 samples, and the uniform size of the images input to the network is 512 × 512 pixels.  
 
 
 #### This dataset can be directly dropped into our public MLCL-Net code [[link](https://github.com/YuChuang1205/MLCL-Net)] for running and testing. It can help you get started quickly.
