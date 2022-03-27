@@ -10,7 +10,10 @@
 #### We unified the data set for easy experimental comparison. The test set is allocated to 96 samples, and the uniform size of the images input to the network is 512 × 512 pixels.  
 
 
-#### It is worth noting that we infer from the results in the ALCNet code that the division of training samples and test samples is exactly the same as that of ALCNet. 
+#### This dataset can be directly dropped into our public MLCL-Net code [[link](https://github.com/YuChuang1205/MLCL-Net)] for running and testing. It can help you get started quickly.
+
+#### It is worth noting that we infer from the public ALCNet code that the division of training samples and test samples is exactly the same as that of ALCNet. 
+
 
 
 
