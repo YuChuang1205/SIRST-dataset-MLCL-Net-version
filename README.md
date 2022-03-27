@@ -15,7 +15,7 @@
 #### It is worth noting that we infer from the public ALCNet code that the division of training samples and test samples is exactly the same as that of ALCNet. 
 
 
-
+#### If you have any problems with reproduction, please ask them on github and I will reply when I see them.  
 
 
 
