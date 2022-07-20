@@ -11,5 +11,5 @@
 #### We unified the data set for easy and rigorous experimental comparison. The test set is allocated to 96 samples, and the uniform size of the images input to the network is 512 × 512 pixels.  
 
 
-#### It is worth noting that we infer from the public ALCNet code that the division of training samples and test samples is exactly the same as that of ALCNet.  
+#### It is worth noting that we infer from the public ALCNet code that the division of training samples and test samples is the same as that of ALCNet.  
 
