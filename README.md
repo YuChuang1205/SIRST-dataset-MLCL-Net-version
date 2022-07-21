@@ -6,7 +6,7 @@
 [3] C. Yu, Y. P. Liu, S. H. Wu, X. Xia, Z. H. Hu, D. Y. Lan, and X. Liu. Pay Attention to Local Contrast Learning Networks for Infrared Small Target Detection. IEEE Geoscience and Remote Sensing Letters. 2022. Available: https://ieeexplore.ieee.org/document/9785618
 
 
-#### The production of this dataset is based on the original SIRST dataset. The original SIRST dataset is available via [[link](https://github.com/YimianDai/sirst)].  
+#### The production of this dataset is based on the original SIRST dataset, which was created by Dr. Dai. The original SIRST dataset is available via [[link](https://github.com/YimianDai/sirst)].  
 
 
 #### We unified the data set for easy and rigorous experimental comparison. The test set is allocated to 96 samples, which corresponds to the test images in Dr. Dai's public ALCNet Repository [[link](https://github.com/YimianDai/open-alcnet/tree/master/results/pred)]. In the dataset we made, the images are uniformly resized to 512×512 pixels. The "mask" only contains two values(0 and 255).  
