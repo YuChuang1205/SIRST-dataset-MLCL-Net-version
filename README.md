@@ -8,6 +8,6 @@
 
 #### The production of this dataset is based on the original SIRST dataset. The original SIRST dataset is available via [[link](https://github.com/YimianDai/sirst)].  
 
-#### We unified the data set for easy and rigorous experimental comparison. The test set is allocated to 96 samples, and the uniform size of the images input to the network is 512 × 512 pixels.  
+#### We unified the data set for easy and rigorous experimental comparison. The test set is allocated to 96 samples (They correspond to the 96 test result images in the ALCNet code)(one-to-one correspondence), and the uniform size of the images input to the network is 512 × 512 pixels.   
 
 
