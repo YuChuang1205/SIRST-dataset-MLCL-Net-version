@@ -8,7 +8,6 @@
 
 #### The production of this dataset is based on the original SIRST dataset. The original SIRST dataset is available via [[link](https://github.com/YimianDai/sirst)].  
 
-
 #### We unified the data set for easy and rigorous experimental comparison. The test set is allocated to 96 samples. In our prepared dataset, the images are uniformly resized to 512×512 pixels. The "mask" only contains two values(0 and 255).  
 
 
