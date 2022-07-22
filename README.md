@@ -3,7 +3,6 @@
 #### If you use this dataset, please cite the papers below.  
 [1] Y. M. Dai, Y. Q. Wu, Z. Fei, B. Kobus, Asymmetric Contextual Modulation for Infrared Small Target Detection. arXiv preprint arXiv: 2009.14530, 2020. Available: [[link](https://doi.org/10.1109/WACV48630.2021.00099)] (original SIRST dataset)  
 [2] C. Yu, Y. P. Liu, S. H. Wu, Z. H. Hu, X. Xia, D. Y. Lan and X. Liu, “Infrared small target detection based on multiscale local contrast learning networks,” Infrared Phys. Technol., vol. 123, 2022. Available: [[link](https://doi.org/10.1016/j.infrared.2022.104107)]     
-[3] C. Yu, Y. P. Liu, S. H. Wu, X. Xia, Z. H. Hu, D. Y. Lan, and X. Liu. Pay Attention to Local Contrast Learning Networks for Infrared Small Target Detection. IEEE Geoscience and Remote Sensing Letters. 2022. Available: [[link](https://ieeexplore.ieee.org/document/9785618)]   
 
 
 #### The production of this dataset is based on the original SIRST dataset, which was created by Dr. Dai. The original SIRST dataset is available via [[link](https://github.com/YimianDai/sirst)].  
