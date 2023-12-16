@@ -8,7 +8,7 @@
 #### The production of this dataset is based on the original SIRST dataset, which was created by Dr. Dai. The original SIRST dataset is available via [[link](https://github.com/YimianDai/sirst)].  
 
 
-#### We unified the data set for easy and rigorous experimental comparison. The test set is allocated to 96 samples, which corresponds to the test images in Dr. Dai's public ALCNet Repository [[link](https://github.com/YimianDai/open-alcnet/tree/master/results/pred)]. In the dataset we made, the images are uniformly resized to 512×512 pixels. The "mask" only contains two values(0 and 255).  
+#### We unified the data set for easy and rigorous experimental comparison. The test set is allocated to 96 samples, which corresponds to the test images in Dr. Dai's public ALCNet Repository [[link](https://github.com/YimianDai/open-alcnet/tree/master/results/pred)]. (One-to-one correspondence, only the names have been modified). In the dataset we made, the images are uniformly resized to 512×512 pixels. The "mask" only contains two values(0 and 255).  
 
 
 #### The prepared datasets above can help you start experiments quickly and make comparisons more convenient.
